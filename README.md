@@ -46,7 +46,7 @@ A Python script that fetches Instagram posts from a specified account using a pu
 
 2. Run the Script:
    ```bash
-   python your_script.py
+   python ig_posts_fecther.py
    ```
 
    By default, it will:
