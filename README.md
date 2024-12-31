@@ -1,7 +1,7 @@
 
 # Instagram Posts Fetcher
 
-A Python script that fetches Instagram posts from a specified account using a public or private GraphQL endpoint. It supports batching, pagination, and resumable downloads, saving your results into JSON format. It also handles encoding issues for robust JSON loading.
+A Python script that fetches Instagram posts from a specified account using a GraphQL endpoint. It supports batching, pagination, and resumable downloads, saving your results into JSON format. It also handles encoding issues for robust JSON loading.
 
 ## Features
 
